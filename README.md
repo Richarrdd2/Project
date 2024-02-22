@@ -25,8 +25,9 @@ Now the server is open, and you can open the web page by typing the following UR
 http://localhost:8080/Project/WebPage.html
 ```
 To shutdown, run the following command:
+```
 %CATALINA_HOME%\bin\shutdown.bat
-
+```
 ## TestQuery
 To run the query testing without using the web page, you need to compile the files using this command:
 ```
